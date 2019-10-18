@@ -4,10 +4,12 @@ Click on this link
 https://druhin13.github.io/Kerala-On-Road
 (Open it in Desktop - for best preview)
 
+<br>
 
 The website is built for IPhone X viewport
 Size - 375 x 812
 
+<br>
 
 So, open the link the Browser.
 Open Inspect.

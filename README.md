@@ -11,9 +11,9 @@ Size - 375 x 812
 <hr>
 <br>
 
-So, open the link the Browser.
-Open Inspect.
-Using (F12) or (Ctrl + Shift + I)
+So, open the link the Browser.<br>
+Open Inspect.<br>
+Using (F12) or (Ctrl + Shift + I)<br>
 Then, select IPhone X from the devices of Screen Size
 <hr>
 <br>

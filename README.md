@@ -1,7 +1,7 @@
 # Kerala-On-Road-mobile-website
 <br>
 Click on this link 
-https://druhin13.github.io/Kerala-On-Road
+https://druhin13.github.io/Kerala-On-Road-Landing-Page
 (Open it in Desktop - for best preview)
 <hr>
 <br>

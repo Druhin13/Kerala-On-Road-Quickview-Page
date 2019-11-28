@@ -1,7 +1,7 @@
-# Kerala-On-Road-Overview-Page
+# Kerala-On-Road-Quickview-Page
 <br>
 Click on this link 
-https://druhin13.github.io/Kerala-On-Road-Overview-Page
+https://druhin13.github.io/Kerala-On-Road-Quickview-Page
 <br>
 (Open it in Desktop - for best preview)
 <hr>
